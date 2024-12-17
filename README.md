@@ -13,7 +13,18 @@ A better background image for generating scene text images is available at [Goog
 
 
 ## Installation
+Clone this repo: 
+```
+git clone github_path_to/GlyphOnly
+cd GlyphOnly
+```
 
+Build up a new environment and install packages as follows:
+```
+conda create -n glyphonly python=3.8
+conda activate glyphonly
+pip install -r requirements.txt
+```
 ## Inference
 
 ## Training
