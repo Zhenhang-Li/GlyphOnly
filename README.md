@@ -9,7 +9,7 @@
 - [ ] Release training dataset and test dataset
 
 ## Datasets
-A better background image for generating scene descriptions is available at [Google Drive](https://drive.google.com/drive/folders/1WD3tHFXW3Rls6OQIIs8WcngFU-ZPN49s?usp=sharing).
+A better background image for generating scene text images is available at [Google Drive](https://drive.google.com/drive/folders/1WD3tHFXW3Rls6OQIIs8WcngFU-ZPN49s?usp=sharing).
 
 
 ## Installation
