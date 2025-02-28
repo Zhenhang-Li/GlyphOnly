@@ -11,7 +11,7 @@
 
 ## Datasets
 A better background image for generating scene text images is available at [Google Drive](https://drive.google.com/drive/folders/1WD3tHFXW3Rls6OQIIs8WcngFU-ZPN49s?usp=sharing).
-
+SynthGlyph10K is available at [Google Drive](https://drive.google.com/file/d/1jDmyplx30kfitUNdSNAkoZqkE2YfIKid/view?usp=sharing).
 
 ## Installation
 Clone this repo: 
