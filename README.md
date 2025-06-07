@@ -1,6 +1,6 @@
 # First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending
 
-<a href='https://arxiv.org/abs/2410.10168'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://github.com/Zhenhang-Li/GlyphOnly/'><img src='https://img.shields.io/badge/Code-Github-green'></a> <a href='https://huggingface.co'><img src='https://img.shields.io/badge/Demo-HuggingFace-yellow'>
+<a href='https://arxiv.org/abs/2410.10168'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://github.com/Zhenhang-Li/GlyphOnly/'><img src='https://img.shields.io/badge/Code-Github-green'></a>
 
 ## TODOs
 - [x] Release SynthGlyph10K and Better_Background
@@ -35,3 +35,13 @@ pip install -r requirements.txt
 ## Evaluation
 
 ## Citation
+```
+@incollection{li2024first,
+  title={First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending},
+  author={Li, Zhenhang and Shu, Yan and Zeng, Weichao and Yang, Dongbao and Zhou, Yu},
+  booktitle={ECAI 2024},
+  pages={346--353},
+  year={2024},
+  publisher={IOS Press}
+}
+```
