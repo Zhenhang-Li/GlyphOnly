@@ -18,7 +18,7 @@ Test dataset is available at  [Google Drive](https://drive.google.com/file/d/1V-
 ## Installation
 Clone this repo: 
 ```
-git clone github_path_to/GlyphOnly
+git clone https://github.com/Zhenhang-Li/GlyphOnly.git
 cd GlyphOnly
 ```
 
