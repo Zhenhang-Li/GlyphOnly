@@ -6,13 +6,14 @@
 - [x] Release SynthGlyph10K and Better_Background
 - [ ] Release inference code and checkpoints
 - [ ] Release training code
-- [ ] Release training dataset and test dataset
+- [x] Release training dataset and test dataset
 - [ ] I will open-source it as soon as possible. If you need anything, feel free to contact me at lizhenhang0506@gmail.com. I will provide the unorganized code and datasets.
 
 ## Datasets
 A better background image for generating scene text images is available at [Google Drive](https://drive.google.com/drive/folders/1WD3tHFXW3Rls6OQIIs8WcngFU-ZPN49s?usp=sharing).
 SynthGlyph10K is available at [Google Drive](https://drive.google.com/file/d/1jDmyplx30kfitUNdSNAkoZqkE2YfIKid/view?usp=sharing).
 Instance categories suitable for text generation on surfaces can be obtained at [Google Drive](https://drive.google.com/file/d/1ULTkLcfVUtVgjflE2LAeJ9pFg_N4QxG-/view?usp=sharing).
+Train dataset is available at [Google Drive](https://drive.google.com/file/d/1jDmyplx30kfitUNdSNAkoZqkE2YfIKid/view?usp=sharing).
 ## Installation
 Clone this repo: 
 ```
