@@ -1,0 +1,20 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 accelerate launch train.py \
+    --train_batch_size=4 \
+    --gradient_accumulation_steps=4 \
+    --gradient_checkpointing \
+    --mixed_precision="fp16" \
+    --num_train_epochs=30 \
+    --learning_rate=1e-5 \
+    --max_grad_norm=1 \
+    --lr_scheduler="constant" \
+    --lr_warmup_steps=0 \
+    --output_dir="./output_dir/" \
+    --dataloader_num_workers=20 \
+    --character_aware_loss_lambda=0.01 \
+    --reg_loss_lambda=0.03 \
+    --resume_from_checkpoint="latest" \
+    --mask_all_ratio=0.9 \
+    --segmentation_mask_aug \
+    --vis_num=8 \
+    --vis_interval=250 \
+    --checkpointing_steps=2000 \
