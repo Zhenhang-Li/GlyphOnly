@@ -7,7 +7,6 @@
 - [ ] Release inference code and checkpoints
 - [ ] Release training code
 - [x] Release training dataset and test dataset
-- [ ] I will open-source it as soon as possible. If you need anything, feel free to contact me at lizhenhang0506@gmail.com. I will provide the unorganized code and datasets.
 
 ## Datasets
 A better background image for generating scene text images is available at [Google Drive](https://drive.google.com/drive/folders/1WD3tHFXW3Rls6OQIIs8WcngFU-ZPN49s?usp=sharing).
@@ -31,7 +30,9 @@ pip install -r requirements.txt
 ## Inference
 
 ## Training
-
+```
+bash train.sh
+```
 ## Evaluation
 
 ## Citation
