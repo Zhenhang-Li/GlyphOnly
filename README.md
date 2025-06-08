@@ -5,7 +5,7 @@
 ## TODOs
 - [x] Release SynthGlyph10K and Better_Background
 - [ ] Release inference code and checkpoints
-- [ ] Release training code
+- [x] Release training code
 - [x] Release training dataset and test dataset
 
 ## Datasets
