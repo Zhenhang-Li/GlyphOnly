@@ -30,6 +30,8 @@ pip install -r requirements.txt
 ## Inference
 
 ## Training
+Download all subfolders under the following folder to the current directory. [Google Drive](https://drive.google.com/drive/folders/1JyAtSjYvupqveM1IPCKW9x9_B_4nsU3L?usp=sharing)
+
 ```
 bash train.sh
 ```
