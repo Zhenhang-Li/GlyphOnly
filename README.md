@@ -10,10 +10,16 @@
 
 ## Datasets
 A better background image for generating scene text images is available at [Google Drive](https://drive.google.com/drive/folders/1WD3tHFXW3Rls6OQIIs8WcngFU-ZPN49s?usp=sharing).
+
 SynthGlyph10K is available at [Google Drive](https://drive.google.com/file/d/1jDmyplx30kfitUNdSNAkoZqkE2YfIKid/view?usp=sharing).
+
 Instance categories suitable for text generation on surfaces can be obtained at [Google Drive](https://drive.google.com/file/d/1ULTkLcfVUtVgjflE2LAeJ9pFg_N4QxG-/view?usp=sharing).
+
 Train dataset is available at [Google Drive](https://drive.google.com/file/d/10rs0cxSy9KkJ0eliSy16fzCN6Paw1fTm/view?usp=sharing).
+
 Test dataset is available at  [Google Drive](https://drive.google.com/file/d/1V-ikGrtNBpLkTbN8bxM5Efp_qDTVMRBT/view?usp=sharing).
+
+Checkpoint is available at [Google Drive](https://drive.google.com/drive/folders/1JyAtSjYvupqveM1IPCKW9x9_B_4nsU3L?usp=sharing)
 ## Installation
 Clone this repo: 
 ```
