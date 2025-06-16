@@ -32,6 +32,8 @@ Build up a new environment and install packages as follows:
 conda create -n glyphonly python=3.8
 conda activate glyphonly
 pip install -r requirements.txt
+cd diffusers
+pip install -e .
 ```
 ## Inference
 
